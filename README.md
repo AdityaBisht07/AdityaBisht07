@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Route F5, A Full-Stack SaaS Application**
 
-- 📫 How to reach me **adityabst.09@gmail.com**
+- 📫 How to reach me ? **adityabst.09@gmail.com**
 
 - 📄 Know about my experiences [By Clicking here](https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link)
 

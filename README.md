@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bisht</h1>
-<h3 align="center">I solve complex problems using algorithms and data structures,</h3>
+<h3 align="center">I solve complex problems using algorithms and data structure also I create projects that are both impactful and pragmatic, designed for real-world use.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabisht07&label=Profile%20views&color=0e75b6&style=flat" alt="adityabisht07" /> </p>
 

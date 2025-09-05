@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aditya Bisht</h1>
 <h3 align="center">I solve complex problems using algorithms and data structures, and I create projects that are both impactful and pragmatic, designed for real-world use.</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif">
+<p align="left" width="100%">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adityabisht07" alt="adityabisht07" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabisht07&label=Profile%20views&color=0e75b6&style=flat" alt="adityabisht07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityabisht07" alt="adityabisht07" /></a> </p>
-
+<p align="right" width="100%">
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif">
+</p>
 - 🔭 I’m currently working on **AI-Driven DDoS Detection & Mitigation System**
 
 - 👯 I’m looking to collaborate on **Route F5, A Full-Stack SaaS Application**
 
-- 👨‍💻 All of my projects are available at [https://info-canvas-aditya-bisht07.vercel.app/](https://info-canvas-aditya-bisht07.vercel.app/)
-
 - 📫 How to reach me **adityabst.09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link](https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link)
+- 📄 Know about my experiences [By Clicking here](https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -17,7 +17,7 @@
 
 - 📫 How to reach me ? **adityabst.09@gmail.com**
 
-- 📄 Know about my experiences [By Clicking here](https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link)
+- 📄 Know about me [By Clicking here](https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -47,8 +47,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue?style=for-the-badge&logo=github)
 
+![Profile Views](https://komarev.com/ghpvc/?username=adityabisht07&color=blue&label=Profile%20Views)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityabisht07&show_icons=true&locale=en&layout=compact" alt="adityabisht07" /></p>
 

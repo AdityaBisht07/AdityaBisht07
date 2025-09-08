@@ -11,13 +11,13 @@
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif">
 </p>
 
-- 🔭 I’m currently working on **AI-Driven DDoS Detection & Mitigation System**
+- I’m currently working on **AI-Driven DDoS Detection & Mitigation System**
 
-- 👯 I’m looking to collaborate on **Route F5, A Full-Stack SaaS Application**
+- I’m looking to collaborate on **Route F5, A Full-Stack SaaS Application**
 
-- 📫 How to reach me ? **adityabst.09@gmail.com**
+- How to reach me ? **adityabst.09@gmail.com**
 
-- 📄 Know about me [Click here](https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link)
+- Know about me [Click here](https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

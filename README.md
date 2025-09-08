@@ -34,189 +34,101 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48"/>
-      </a>
-      <br>AWS
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" /><br>AWS
     </td>
     <td align="center" width="96">
-      <a href="https://github.com" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48"/>
-      </a>
-      <br>GitHub
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
     </td>
     <td align="center" width="96">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
-      </a>
-      <br>C
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /><br>C
     </td>
     <td align="center" width="96">
-      <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="48" height="48"/>
-      </a>
-      <br>Cassandra
+      <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="48" height="48" alt="Cassandra" /><br>Cassandra
     </td>
     <td align="center" width="96">
-      <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="48" height="48"/>
-      </a>
-      <br>Chart.js
+      <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="ChartJS" /><br>ChartJS
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48"/>
-      </a>
-      <br>C++
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" /><br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" /><br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" /><br>Express
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>
-      </a>
-      <br>CSS3
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" /><br>Figma
     </td>
     <td align="center" width="96">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48"/>
-      </a>
-      <br>Docker
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" /><br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="48" height="48"/>
-      </a>
-      <br>Express
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" /><br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48"/>
-      </a>
-      <br>Figma
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" /><br>Java
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
-      </a>
-      <br>Git
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>
-      </a>
-      <br>HTML5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" /><br>Next.js
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48"/>
-      </a>
-      <br>Java
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" /><br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48"/>
-      </a>
-      <br>JavaScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /><br>Oracle
     </td>
     <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
-      </a>
-      <br>Linux
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br>Pandas
     </td>
     <td align="center" width="96">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/>
-      </a>
-      <br>MongoDB
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="Photoshop" /><br>Photoshop
     </td>
     <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48"/>
-      </a>
-      <br>MySQL
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /><br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48"/>
-      </a>
-      <br>Next.js
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" /><br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" /><br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" /><br>TailwindCSS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48"/>
-      </a>
-      <br>Node.js
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" /><br>REST API
     </td>
     <td align="center" width="96">
-      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/>
-      </a>
-      <br>Oracle
-    </td>
-    <td align="center" width="96">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
-      </a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="48" height="48"/>
-      </a>
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48"/>
-      </a>
-      <br>PyTorch
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48"/>
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48"/>
-      </a>
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="48" height="48"/>
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="https://restapi.com.com/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48"/>
-      </a>
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48"/>
-      </a>
-      <br>TensorFlow
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" /><br>TensorFlow
     </td>
   </tr>
 </table>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityabisht07&show_icons=true&locale=en&layout=compact" alt="adityabisht07" /></p>

@@ -17,7 +17,7 @@
 
 - How to reach me ? **adityabst.09@gmail.com**
 
-- Know about me [HERE](https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link)
+- Know about me [CLICK HERE](https://drive.google.com/file/d/11pDc1ABo_tmPF7THg0sGA_laXZ0EyrBG/view?usp=drive_link)
 
 - Portfolio Website[HERE](https://info-canvas-aditya-bisht07.vercel.app/)
 

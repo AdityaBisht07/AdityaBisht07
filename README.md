@@ -29,6 +29,11 @@
 <a href="https://www.leetcode.com/adityabisht09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityabisht09/" height="30" width="40" /></a>
 </p>
 
+<br>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
@@ -129,7 +134,9 @@
   </tr>
 </table>
 
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityabisht07&show_icons=true&locale=en&layout=compact" alt="adityabisht07" /></p>
 

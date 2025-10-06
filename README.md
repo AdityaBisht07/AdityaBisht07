@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Bisht</h1>
 <h3 align="center">I solve complex problems using algorithms and data structures, and I create projects that are both impactful and pragmatic, designed for real-world use. </h3>
 <!-- <p align="left" width="100%"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"> 
     <img src="https://github-profile-trophy.vercel.app/?username=adityabisht07" alt="adityabisht07" />
   </a>
 </p> -->

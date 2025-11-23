@@ -4,7 +4,7 @@
 <!-- <p align="left" width="100%"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">  
     <img src="https://github-profile-trophy.vercel.app/?username=adityabisht07" alt="adityabisht07" />
-  </a>
+  </a> 
 </p> --> 
    
 <p align="right" width="100%">
